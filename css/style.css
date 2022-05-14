@@ -745,7 +745,6 @@ body::-webkit-scrollbar-thumb:hover {
   height: 46px;
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
-  flex-grow: 1;
 }
 
 @media (max-width: 1500px) {
