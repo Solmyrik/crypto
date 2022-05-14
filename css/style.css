@@ -751,6 +751,13 @@ body::-webkit-scrollbar-thumb:hover {
   }
 }
 
+@media (max-width: 500px) {
+  .header__logo {
+    margin-right: 5px;
+    max-width: 100px;
+  }
+}
+
 .header__logo img:not(:last-child) {
   margin-right: 14px;
 }
